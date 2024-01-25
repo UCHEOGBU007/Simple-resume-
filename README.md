@@ -1,2 +1,2 @@
-# Simple-resume-
-Bio
+# Simple-resume-Bio.
+resume 
